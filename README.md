@@ -4,8 +4,9 @@
 This project was to provide users with a web resource in order to browse UFO data.
 
 # Results
-The website is very easy to use and has great "curb appeal".  To use the website, follow the instructions below:
-1. Type in a value in any of the fields following the example data in each cell.  The empty filter appears below.
+The website is very easy to use and has great "curb appeal".  To use the website, follow the instructions below.
+
+1. The empty filter appears below. Type a value in any of the fields following the example data in each cell.
 
 ![EmptyFilter.png](https://github.com/WagnerLisaK/UFOs/blob/main/Resources/EmptyFilter.png)
 
