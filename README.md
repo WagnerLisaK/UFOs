@@ -3,6 +3,8 @@
 # Overview of Project
 This project was to provide users with a web resource in order to browse UFO data.
 
+![Snapshot.png](https://github.com/WagnerLisaK/UFOs/blob/main/static/images/Snapshot.png)
+
 # Results
 The website is very easy to use and has great "curb appeal".  To use the website, follow the instructions below.
 
